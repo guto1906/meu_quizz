@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_93bdb9a0aa20eeac596e2b806c5fecdddc0c3d42.jar" />
+    </item>
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_113ed54ccf3c7b204c13a11ff8a6a56ffcd6fde1.jar" />
+    </item>
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f9958a833ed753cef91d7475376741075722555e">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/instant-run_9a90366be03b20c68dec16cd486d7a7fa45e3e00.jar" />
+    </item>
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c27e33535e4f9f3245067133adf09df0717273c0.jar" />
+    </item>
+    <item
+        jar="/home/guto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ae3566ee26773fabb1a35199a57c7874533b0444.jar" />
+    </item>
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_58852439cf4e72cabc1c2b044178e81a8ed24e0d.jar" />
+    </item>
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd0e307e8b71d2f91f094cca34701348cd8535a7">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_432a5c7df51c1b7de4139b1bdef2b63711fe687a.jar" />
+    </item>
+    <item
+        jar="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/media/guto/6076-CB52/Adroid_Studio/projetos/MyQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d24e06fc573b2073da30f13373b3c968172da3f4.jar" />
+    </item>
+
+</items>

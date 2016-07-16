@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.fatecpg.myquiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".InsertQuestionActivity" />
+        <activity android:name=".InsertAnswerActivity" />
+        <activity android:name=".NrQuestionActivity" />
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".QuestionImparActivity" />
+        <activity android:name=".QuestionParActivity"></activity>
+    </application>
+
+</manifest>
